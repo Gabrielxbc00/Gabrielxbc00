@@ -11,6 +11,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Gabrielxbc00&show_icons=true" />
 </picture>
+ 
+ ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielxbc00&theme=dark&show_icons=true)
 
 </div>
 <div style="display: inline_block"><br>

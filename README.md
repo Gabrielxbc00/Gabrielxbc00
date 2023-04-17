@@ -1,8 +1,16 @@
-## Bem-vindo(a)
+# Bem-vindo(a)
 
- <div>   <a href="https://github.com/Gabrielxbc00">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielxbc00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielxbc00&layout=compact&langs_count=6&theme=tokyonight"/>
+ <div>   <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 </div>
 <div style="display: inline_block"><br>
